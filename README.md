@@ -55,15 +55,4 @@ Click the "New Game" button to start a new game.
 
 
 ## Contributing
-
-### 1. Fork the Repository
-Contributions are welcome! Please fork the repository.
-
-### 2. Create a Pull Request
-Create a pull request with your changes.
-
-### 3. Follow Code Style
-Make sure to follow the existing code style.
-
-### 4. Include Test Coverage
-Include appropriate test coverage with your changes.
+Contributions are welcome! Please fork the repository and create a pull request with your changes. Make sure to follow the existing code style and include appropriate test coverage.
