@@ -14,7 +14,7 @@ This is a simple Tic-Tac-Toe game implemented using HTML, CSS, and JavaScript. T
 
 ## Demo
 
-You can view a live demo of the game [here](#).
+You can view a live demo of the game [here](https://github.com/Karan7426/Tic-Tac-Toe-Game.git).
 
 ## Features
 
